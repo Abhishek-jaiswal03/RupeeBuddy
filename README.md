@@ -21,7 +21,8 @@ RupeeBuddy is your go-to finance companion, specifically designed with college s
 The final project will consist of 2 files:
 expense.py: A class for creating and storing expense objects.
 expense_tracker.py: The main application logic.
-✅ Tasks
+
+### Tasks✅
 Create the expense.py class.
 Create the expense_tracker.py file and write the main logic for the app.
 Run the app to test it.
