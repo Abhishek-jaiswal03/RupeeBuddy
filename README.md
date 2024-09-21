@@ -18,4 +18,4 @@ RupeeBuddy is your go-to finance companion, specifically designed with college s
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RupeeBuddy.git
+   git clone https://github.com/Abhishek-jaiswal03/RupeeBuddy.git
