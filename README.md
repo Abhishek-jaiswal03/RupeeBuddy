@@ -27,6 +27,17 @@ Create the expense.py class.
 Create the expense_tracker.py file and write the main logic for the app.
 Run the app to test it.
 
+### Example Screenshot
+
+![image](https://github.com/user-attachments/assets/16d124cc-1fc4-494f-89fc-20edcdf5f9b5)
+
+CSV File :
+
+
+![image](https://github.com/user-attachments/assets/12dc5b1a-86f4-4abc-9d8e-109d1ffa7046)
+
+
+
   
   
 ### Installation
