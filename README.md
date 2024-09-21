@@ -1,6 +1,7 @@
 # RupeeBuddy:Your College Finance Companion
 
-![image](https://github.com/user-attachments/assets/83f59dce-c613-4ebd-9b02-97ef51a58d81)
+![image](https://github.com/user-attachments/assets/83f59dce-c613-4ebd-9b02-97ef51a58d81
+
 RupeeBuddy is your go-to finance companion, specifically designed with college students in mind. This intuitive expense tracker makes managing your finances a breeze, allowing you to categorize your spending and keep a close eye on your budget. With RupeeBuddy, you'll always have a clear picture of where your money is going!
 
 ## Features
