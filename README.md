@@ -15,10 +15,21 @@ RupeeBuddy is your go-to finance companion, specifically designed with college s
 - Python
 - CSV for data storage
 - datetime and calendar for date manipulation
-- ### Prerequisites
+### Prerequisites
 - Python 3.x installed on your machine.
+### 💡 Recommended Project Structure
+The final project will consist of 2 files:
+expense.py: A class for creating and storing expense objects.
+expense_tracker.py: The main application logic.
+✅ Tasks
+Create the expense.py class.
+Create the expense_tracker.py file and write the main logic for the app.
+Run the app to test it.
+
+  
   
 ### Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/Abhishek-jaiswal03/RupeeBuddy.git
+
